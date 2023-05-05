@@ -1,0 +1,1 @@
+# Real-Time-Life-Violence-and-nonviolence-Detection-using-MobileNet-and-Bi-directional-LSTM
